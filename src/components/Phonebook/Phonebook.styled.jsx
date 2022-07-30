@@ -23,6 +23,10 @@ display: flex;
     border: none;
     }
 
+     @media (max-width: 420px) {
+         min-width: 200px;
+         
+      }
 
     }
 

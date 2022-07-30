@@ -12,4 +12,9 @@ display: block;
      outline: 2px solid #82B1FF;
     border: none;
     }
+
+    @media (max-width: 420px) {
+         min-width: 200px;
+         
+      }
 `;
